@@ -8,7 +8,7 @@
 
 <h1>CUBE ROOT</h1>
 <p>
-  &#8731; 27 = 3
+  &#8731; 27 = 3<sub>2<sub>
 </p>
 
 <h1>POWER OF</h1>
