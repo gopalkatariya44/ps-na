@@ -1,4 +1,4 @@
-## PS & NA
+<!-- ## PS & NA -->
 
 ### Euler Method
 <h1>NOT EQUAL</h1>
