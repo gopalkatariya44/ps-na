@@ -2,7 +2,7 @@
 
 ### Euler Method
 <p>
-    y <sub>Y + 1</sub> = h(x<sub>n</sub>y<sub>n</sub>)
+    y <sub>y + 1</sub> = h(x<sub>n</sub>y<sub>n</sub>)
 </p>
 <p>
   1 + 1 &#8800; 11 
